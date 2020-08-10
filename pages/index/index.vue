@@ -1,6 +1,6 @@
 <template>
 	<view class="container">
-		<text>数钱吧-C端版</text>
+		<text>数钱吧-C端版1</text>
 		<uni-card title="云好贷">
 			<view class="uni-flex uni-amount-wrap">
 				<view class="uni-amount">
